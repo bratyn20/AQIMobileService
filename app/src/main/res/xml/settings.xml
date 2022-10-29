@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <PreferenceCategory
+        android:title="Настройки карты">
+
+    <CheckBoxPreference
+        android:key="arealWind"
+        android:icon="@drawable/ic_explore_black"
+        android:summary="Отображать ареал ветра на карте"
+        android:title="Ареал ветра" />
+
+        <ListPreference
+            android:entries="@array/settings_map_name"
+            android:entryValues="@array/settings_map_values"
+            android:key="choseMap"
+            android:summary="@string/settings_map_summary"
+            android:title="@string/settings_map_title"
+            android:icon="@drawable/ic_settings_map"
+            >
+        </ListPreference>
+
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:title="Настройки уведомлений">
+
+        <CheckBoxPreference
+            android:key="notificationTrue"
+            android:icon="@drawable/ic_notifications"
+            android:title="Присылать уведомления" />
+
+    </PreferenceCategory>
+</PreferenceScreen>

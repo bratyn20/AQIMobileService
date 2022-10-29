@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Качество воздуха</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="settings_map_name">
+        <item>Google map</item>
+        <item>Open Street map</item>
+    </string-array>
+    <string-array name="settings_map_values">
+        <item>GMap</item>
+        <item>OSMMap</item>
+    </string-array>
+
+    <string name="settings_map_title">Карта</string>
+    <string name="settings_map_summary">Выберите карту для использования. На смартфонах Huawei рекомендуем использовать Open Street Map</string>
+</resources>

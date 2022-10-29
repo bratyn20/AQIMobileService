@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/drawable/ic_baseline_api_24.xml" value="0.3828125" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/drawable/ic_baseline_flag_24.xml" value="0.2682291666666667" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/drawable/ic_explore_black.xml" value="0.30104166666666665" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/drawable/ic_graphic.xml" value="0.2682291666666667" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/drawable/ic_home.xml" value="0.3828125" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/drawable/ic_info.xml" value="0.3828125" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/drawable/ic_logout.xml" value="0.2682291666666667" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/drawable/ic_map.xml" value="0.3828125" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/drawable/ic_menu.xml" value="0.2682291666666667" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/drawable/ic_menu_settings.xml" value="0.29259259259259257" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/drawable/ic_mylocation.xml" value="0.3828125" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/drawable/ic_person.xml" value="0.3828125" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/drawable/ic_settings_map.xml" value="0.30104166666666665" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/drawable/ic_warning.xml" value="0.2682291666666667" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/drawable/menucolor.xml" value="0.2682291666666667" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/drawable/menucolor2.xml" value="0.2682291666666667" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/drawable/rounded.xml" value="0.2604166666666667" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/drawable/roundmap.xml" value="0.24895833333333334" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/layout/fragment_home.xml" value="0.2328125" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/layout/fragment_info.xml" value="0.3596014492753623" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/layout/fragment_info_page.xml" value="0.2328125" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/layout/fragment_map.xml" value="0.3596014492753623" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/layout/fragment_weather.xml" value="0.338768115942029" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/layout/infohome_fragment.xml" value="0.2328125" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/layout/list_graph.xml" value="0.24427083333333333" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/layout/list_item.xml" value="0.23958333333333334" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/layout/main_nav_drawer.xml" value="0.2520833333333333" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/layout/main_toolbar.xml" value="0.2520833333333333" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/layout/map_info_window.xml" value="0.2" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/layout/map_marker_info_window.xml" value="0.32083333333333336" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/layout/osmdroid_fragment.xml" value="0.3541666666666667" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/menu/bottom_menu.xml" value="0.26510416666666664" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2682291666666667" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2682291666666667" />
+        <entry key="..\:/nirs/android/GoogleMap1/app/src/main/res/xml/settings.xml" value="0.28489583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
